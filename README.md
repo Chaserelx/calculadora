@@ -1,4 +1,4 @@
-# Calculadora
+# Calculadora V1.1
 Programa de prueba para ver funcionalidades de Git y Github
 
 ## Instalación
